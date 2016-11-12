@@ -1,0 +1,49 @@
+body {
+	background: url(http://austinwholebodyhealth.com/wp-content/uploads/2015/06/Dollarphotoclub_62327273.jpg)no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1 {
+	color: blue;
+	font-size: xx-large;
+	text-align: center;
+	background-color: grey;
+	display: inline-block;
+}
+
+h2 {
+	color: red;
+	font-size: large;
+}
+
+h3 {
+	color: brown;
+}
+
+div {
+	float: left;
+	display: inline;
+	color: white;
+	font-size: 1.2em;
+	margin-top: 100px;
+}
+
+#div1 {
+	width: 100%;
+}
+
+#div2 {
+	width: 33%;
+}
+
+#div3 {
+	width: 33%;
+}
+
+#div4 {
+	width: 33%;
+}
+
+.numb {
+	color: red;
+}
